@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# This script will print a simple message to the console.
+echo "Hello, world!"
+
+# This script will print the current date and time.
+date
+
+# This script will create a new directory.
+mkdir new_directory
+
+# This script will list all files in the current directory.
+ls
+
+# This script will copy a file.
+cp file1.txt file2.txt
+
+# This script will delete a file.
+rm file1.txt
